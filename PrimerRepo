@@ -1,0 +1,7 @@
+echo "#primerRepo" » Reademe.md
+git init
+git add README.md
+git commit -m "first commit"
+branch -m main
+git remote and origin https://github.com
+git push -u origin main DT-ESP-008/primerRepo.git
